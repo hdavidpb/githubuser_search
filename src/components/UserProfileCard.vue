@@ -127,6 +127,7 @@ export default {};
   font-size: 18px;
   width: 100%;
   text-align: left;
+  color: #ffffff;
 }
 .username_container span {
   font-size: 14px;
