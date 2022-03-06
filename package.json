@@ -1,0 +1,21 @@
+{
+  "name": "github_usersearch",
+  "private": true,
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "axios": "^0.26.0",
+    "dayjs": "^1.10.8",
+    "vue": "^3.2.25",
+    "vue-toastification": "^2.0.0-rc.5",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^2.2.0",
+    "vite": "^2.8.0"
+  }
+}
